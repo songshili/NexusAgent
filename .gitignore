@@ -1,0 +1,22 @@
+# ===== 密钥 / 敏感信息 =====
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+
+# ===== 向量索引持久化 =====
+storage/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# ===== 编辑器 / 系统 =====
+.vscode/
+.idea/
+.DS_Store

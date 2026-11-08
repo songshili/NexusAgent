@@ -1,0 +1,9 @@
+llama-index-core
+llama-index-llms-openai-like
+llama-index-readers-file
+docx2txt
+python-pptx
+openpyxl
+llama-index-retrievers-bm25
+llama-index-embeddings-openai
+python-dotenv
